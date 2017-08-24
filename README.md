@@ -1,2 +1,1 @@
-# cms
-Game Manager Tool And SDK for MU Origin
+# Game Manager Tool And SDK for MU Origin
